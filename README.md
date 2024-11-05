@@ -1,2 +1,2 @@
 # HuaweiAI
-Repo for Huaewi IA introduction course
+Repo for Huawei IA introduction course
